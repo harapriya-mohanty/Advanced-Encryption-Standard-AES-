@@ -8,7 +8,7 @@ export default function App() {
   const [loading, setLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
 
-  const API = "http://127.0.0.1:8000";
+  const API = "https://advanced-encryption-standard-aes-0y3n.onrender.com";
 
   const encryptText = async () => {
     try {
