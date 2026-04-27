@@ -6,7 +6,7 @@ A full-stack web application for secure text and file encryption using AES-GCM w
 
 ## 🚀 Live Demo
 
-🌐 Frontend: advanced-encryption-standard-aes.vercel.app  
+🌐 Frontend: https://advanced-encryption-standard-aes.vercel.app/
 🔗 Backend API: https://advanced-encryption-standard-aes-0y3n.onrender.com  
 
 ---
